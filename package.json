@@ -1,0 +1,24 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLen.js",
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xMALVEE/unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xMALVEE/unit-test/issues"
+  },
+  "homepage": "https://github.com/0xMALVEE/unit-test#readme"
+}
